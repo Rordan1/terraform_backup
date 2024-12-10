@@ -1,6 +1,6 @@
 # terraform_backup
 
-##Automate:
+## Automate:
   Creation of an S3 bucket to store configuration script.
 
   Selecting latest Ubuntu AMI version via the AWS catalog. 
